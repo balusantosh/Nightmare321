@@ -8,42 +8,28 @@ windows_name = "0"
 
 print("""
 
-					        
-
-			
-			
-
-
-							 +hNdoshmNMMMMMMMMMMNNNMMNNmd
-							oomhhmNMMMMMMMMMMMMMMMNNNMMMMNd
-							+ydNMMMMMMMMMMMMMMMMMMMMNNNMMMNm
-							ymMMMMMMMMMMMMMMMMMMMMMMMMNNMMMNm
-						      +yNNMMMMMMMMMMMMMMMMMMMMMMMMMMNNNMN
-						      +hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNs
-				 		      +yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNy
-						       oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh
-				   		       /hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd
-						       :/dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm
-						       :-smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh
-						       :-+yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo
-						       :-:yhMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:
-						       :--oymMMMMMMMMMMMMMMMMMMMMMMMMMMNdy-
-						       :--:symMMMMMMMMMMMMMMMMMMMMMMMMNddo-
-						       :---+yhdNMMMMMMMMMMMMMMMMMMMMMNddy/-
-						       :---:shdhNMMMMMMMMMMMMMMMMMMMNhdhy/-
-						       :--:+sydmhNMMMMMMMMMMMMMMMMMmdmddh+::/
-					      	+++//://+osyhhdmmdNNMMMMMMMMMMMMMNddNmmmdhyo+
-					     ++++/++osyhddmmNNNNNhmNNNMMMMMMMMNMNdmNNNmmmddhyso+
-					  +++/+osyhdmmNNNNNNNNNNNmdNNNNMMMNNNNNNdmNNNNNNmmmddhyso+
-				       +++osyhhmNNNNMMNNNNNNNNNNNNmNNNNNNNMMMNNmmNMNNNNNNNNNmmddhys+///
-				     /+oshdmNNNNNNMMMNNNNNNNNNNNMNNNNMNNNNMMNNNmNNNNNNNNNNNNNNNNmmddhs+::/
-				   +:+shmmNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNNNNMNNNNNNNNNNNMMNNNMNNNNNNNmdhhys+//
-				  /:oydmNNNNNNNNNNNNNNNNNNNNNNNNMNNNNNNNNNNNNNNNNNNMNNNNNNNMNNNNNMNMNNNNNNmhs+
-				 /:ohmNNNNNNNNNNNNNNNNNNMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNNNNNNNNNNNMMNNNNmhs
-				/-ohmmNNNNNNNMMNNNNMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNNNNdy
-			       +:+ydmNNNNNNNNNNNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNMMNNmh
-			       ++sdmmNNNNNNNNNNNNNNNNmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmNNNNNNNNNNNNNNNNNNNNMMNNdy
-			
+			  	     `:               --             
+				     `/.    ``````   `/-             
+				      ./:-:://///::-:/:              
+				     `-///////////////:.`            
+				    -///-./////////-.://:.           
+				   -////:://////////:////:.          
+				  `://////////////////////-          
+			     `.`` `.---------------------..  `.``    
+			    -///:`.///////////////////////:`.///:`   
+			   `:////.-///////////////////////:`-////.   
+			   `:////.-/++////////++////////+/:`-////.   
+			   `:////.-/++/++++//+++++/++++++/:`-////.   
+			   `:////.-///////////////////////:`-////.   
+			   `:////.-///////////////////////:`-////.   
+			   `:////.-///////////////////////:`-////.   
+			    `.--` -///////////////////////: `.--.    
+				  .///////////////////////-          
+				   .---://///---://///----`          
+				       .////-   .:////               
+				       .////-   .:////               
+				       .////-   .:////               
+				       `://:.    -///.   			
 """)
 print("""
 			 #    #  #     #  #     #        #     #    
